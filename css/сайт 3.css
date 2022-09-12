@@ -1,0 +1,612 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size:22px;
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'DM Sans', sans-serif;
+    background: #191919;
+    font-weight: 400;
+}
+*{
+    box-sizing: border-box;
+}
+}
+.wrapper{
+    overflow:hidden;
+}
+._container{
+   max-width:1328px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+.logo{
+    color: white;
+    margin-right: auto;
+    font-size: 40px;
+    font-weight: 700;
+}
+.nav{
+    margin-top: 43px;
+    display: flex;
+    align-items: center;
+}
+.nav_link{
+    color:white;
+    font-size: 17px;
+    line-height: 27px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.nav_link:hover{
+    color:#ddeeff;
+}
+.nav_link:active{
+    color: #118DA8;
+}
+.nav_link:last-child{
+    margin: 0;
+}
+.prod{
+    width: 55%;
+        
+    
+}
+.prodi{
+    align-items: center;
+    display: flex;
+    margin-top: 57px;
+    margin-bottom: 93px;
+    justify-content: space-between;
+}
+.title{
+    color:white;
+}
+.take{
+    font-size:70px;
+    line-height: 88px;
+    font-weight: 400;
+    margin: 0;
+}
+.next{
+ font-size: 75px;
+    line-height: 88px;
+    font-weight: 400;
+    margin: 0;
+    margin-right: 25px;
+}
+.level{
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0;
+}
+.next_level{
+    display: flex;
+    align-items: center;
+}
+.line{
+    width: 163px;
+}
+.listen{
+    color: white;
+    font-size: 15px;
+    line-height: 24px;
+}
+.listen_on{
+    margin-top: 85px;
+    margin-left: 22px;
+    
+}
+.applications{
+    margin-top: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.app{
+    margin-right: 10px;
+    height: 32px;
+    width: 32px;
+}
+.application{
+    margin-top: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.app:last-child{
+    margin: 0;
+}
+.sectio{
+
+}
+.late{
+    color:white;
+    font-size: 64px;
+    font-weight: 400;
+    margin:0;
+    line-height: 70px;
+}
+.btn{
+    background: #118DA8;
+    color:white;
+    padding: 12px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 31px;
+}
+.btn:hover{
+    background:#1dacd6;
+}
+.title_btn{
+    display:flex;
+        margin-bottom: 64px;
+    justify-content: space-between;
+}
+.episode_3{
+    background: black;
+    border-radius: 32px;
+    display:flex;
+    margin-bottom: 60px;
+    padding: 40px;
+}
+.pult{
+    width: 50%;
+}
+
+.gear1{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    background: #191919;
+    border-radius: 6px;
+    padding: 0 16px;
+    margin-top: 15px;
+    height: 27px;
+    margin-bottom: 0;
+    width: 73px;
+    text-align: center;
+}
+.gear{
+  color: white;
+    font-size: 18px;
+    font-weight: 400;
+    background: #191919;
+    border-radius: 6px;
+    padding: 0 16px;
+    margin-top: 15px;
+    height: 27px;
+    margin-bottom: 0;
+    width: 73px;
+    text-align: center;  
+}
+.ep3{
+    margin-top: 48px;
+    color: #118DA8;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-bottom: 28px;
+}
+.sub_title{
+    margin-left: 53px;
+}
+.main_text{
+    margin-top: 28px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+.view{
+    color: white;
+    border-radius: 6px;
+    background: #118DA8;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 12px 20px;
+    text-decoration: none;
+    display: block;
+    width: 214px;
+}
+.view:hover{
+background:#1dacd6;
+}
+.trips{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    background: #191919;
+    border-radius: 6px;
+    padding: 0px 16px;
+    margin-top: 48px;
+    height: 27px;
+    margin-bottom: 0;
+    width: 138px;
+}
+.jacob{
+    margin-top: 260px;
+    display: flex;
+   
+}
+.meet{
+    margin-top: 148px;
+}
+.meet_your{
+    color:#118DA8;
+    font-size: 18px;
+    margin: 0;
+    
+}
+.btn_bor{
+     background:#118DA8;
+    border-radius: 400px;
+    padding: 40px 24px 40px 17px;
+    width: 112px;
+    height: 112px;
+    display: block;
+}
+.btn_bor:hover{
+    background:#1dacd6;
+}
+.paulaner{
+    color: white;
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 79px;
+    margin: 0;
+    letter-spacing: 3px;
+}
+intro_{
+    margin-top:28px;
+    margin-bottom: 33px;
+    
+}
+.prodi_{
+    margin-left: auto;
+    width: 50%;
+   
+}
+
+.subi{
+    background: black;
+    border-radius: 32px;
+    margin-left: 28px;
+    display: flex;
+    padding: 60px;
+}
+.sub{
+    margin-top: 201px;
+    width:100%;
+}
+.vector{
+    padding-top: 322px;
+    position: absolute;
+        
+    }
+.sup_title{
+    
+}
+.subscribe{
+    font-size: 72px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    line-height: 79px;
+    color:white;
+    margin:0;
+    
+}
+.name_{
+    margin:0;
+}
+.name{
+    background: #191919;
+    padding: 26px 0px 26px 19px;
+    font-size: 24px;
+    font-weight: 400;
+    border-style: none;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    width: 100%;
+    
+}
+.name_email{
+    margin-left: auto;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn_sub{
+    background: #118DA8;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 29px;
+    padding:9px 15px 10px 19px;
+    display: block;
+    width: 87px;
+    height: 48px;
+}
+.btn_sub:hover{
+    background:#1dacd6;
+}
+.recom{
+    margin-top: 175px;
+    display: flex;
+    justify-content: space-between;
+}
+.betty{
+    background: black;
+    border-radius: 32px;
+    width:32%;
+    padding: 54px 59px 50px 50px;
+}
+.i_can{
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    line-height: 43px;
+    margin: 0;
+    padding-top: 22px;
+}
+.lacey{
+    padding-top: 19px;
+    font-size: 24px;
+    margin:0;
+}
+.recom2{
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    margin-top: 200px;
+    display:flex;
+    justify-content: space-between;
+}
+.bettys{
+    background: black;
+    border-radius: 32px;
+    width:32%;
+     padding: 54px 59px 50px 50px;
+}
+.castaway{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+    margin: 0;
+}
+.appli{
+    margin-top: 20px;
+   
+}
+.applicat{
+    margin-right: 13px;
+}
+li{ 
+list-style: none;
+     margin-bottom: 10px;
+}
+ .nav_foot_{
+    font-size: 17px;
+    color: white;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.header .show-menu{
+    display: block;
+    position: absolute;
+    background: rgba(0,0,0,0.4);
+    left: 0;
+    top: 0;
+    width: 50%;
+    padding: 100px 0px 20px 70px;
+}
+.burger {
+    display: none;}
+@media( max-width:1328px){
+    ._container{
+max-width:1114px;
+    }
+    .title{
+        width:40%;
+    }
+}
+@media( max-width:992px){
+    ._container{
+max-width: 750px;
+    }
+    .subscribe{
+        font-size:45px;
+}
+    .betty{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .betty:last-child{
+        margin: 0;
+    }
+    .recom{
+        flex-wrap: wrap;
+    }
+    .recom2{
+        flex-wrap: wrap;
+    }
+     .bettys{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .betty:last-child{
+        margin: 0;}
+    .take{
+        font-size: 55px;
+        line-height: 70px;
+    }
+    .next{
+        font-size: 60px;
+        line-height: 50px;
+    }
+    .level{
+        font-size: 65px;
+        line-height: 50px;
+    }
+    .late{
+        font-size: 46px;
+        line-height: 60px;
+    }
+    .nav_foot {
+    width: 20%;
+    }
+    .link_nav_foot{
+        width: 20%;
+}
+    .logo_app{
+    width:45%
+    }
+}
+
+@media( max-width:767px){
+    ._container{
+max-width: none;
+    }
+    .sub_title{
+    margin-left: 15px;
+}
+    .late{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .view{
+        font-size: 14px;
+        width: 135px;
+        text-align: center;
+    }
+    body{
+        font-size: 13px;
+    }
+    .meet{
+        width: 45%;
+    }
+    .btn_sub{
+        width: 60px;
+        padding: 9px 10px 10px 6px;
+        font-size: 13px;
+        
+    }
+    .paulaner{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .subscribe{
+        line-height: 35px;
+        font-size: 25px;
+        
+    }
+    .meet_you{
+        font-size: 13px;
+    }
+    .name_email{
+        width: 30%;
+    }
+    .name{
+        font-size: 15px;
+        padding: 15px 0px 15px 10px;
+    }
+    .meet_your{
+        font-size: 13px;
+    }
+    .vector{
+        padding-top: 190px;
+    }
+    .nav_foot_{font-size: 13px;
+    }
+    .logo_app{
+        width: 23%;
+    }
+    .castaway{
+        font-size: 17px;
+    }
+    .nav_foot{
+        width: 15%;
+    }
+    .link_nav_foot{
+        width:20%;
+        }
+    .application{
+        width: 10%;}
+    .app{
+        margin-bottom: 10px;
+    }
+    .take{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .next_level{
+        flex-wrap: wrap;
+    }
+    .line{
+        width: 70px;
+    }
+    .listen_on{
+        margin-top: 30px;
+        margin-left: 18px;
+    }
+    .app{
+        height: 20px;
+        width: 20px;
+    }
+    .prodi{
+      display: flex;
+    flex-wrap: wrap;
+    }
+    .next{
+        font-size: 33px;
+        line-height: 50px;
+        margin-right: 10px;
+    }
+    .level{
+        font-size: 37px;
+        line-height: 50px;
+    }
+    .applicat{
+        margin-bottom: 10px;
+    }
+    .menu__{
+        display: none;
+    }
+    .subi{
+        padding: 30px;
+    }
+    .prod{
+        width: 100%;
+    }
+    .title{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .episode_3{
+        flex-wrap: wrap;
+    }
+    .pult{
+        width: 100%;
+    }
+    .jacob{
+        flex-wrap: wrap;
+    }
+    .meet{
+        margin-top: 0;
+        width: 100%;
+    }
+    .prodi_{
+        width: 100%;
+    }
+    .logo{
+        font-size: 25px;
+    }
+    .burger{
+        display:block;
+    }
+}
+
